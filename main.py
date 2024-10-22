@@ -10,8 +10,8 @@ from ragas import evaluate
 import chromadb
 from chromadb.config import Settings
 
-open_ai_key = st.secrets("OPENAI_API_KEY")
-LLM_model = st.secrets("LLM_model")
+open_ai_key = st.secrets["OPENAI_API_KEY"]
+LLM_model = st.secrets["LLM_model"]
 
 # Load an existing Chroma collection
 def load_chroma_collection(name, persist_directory):
