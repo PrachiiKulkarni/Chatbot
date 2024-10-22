@@ -11,5 +11,5 @@ chromadb==0.5.15
 nltk==3.8.1
 protobuf==3.20.3
 #sqlite3 >= 3.35.0
-pysqlite3-binary
-python==3.10.12
+#pysqlite3-binary
+python
