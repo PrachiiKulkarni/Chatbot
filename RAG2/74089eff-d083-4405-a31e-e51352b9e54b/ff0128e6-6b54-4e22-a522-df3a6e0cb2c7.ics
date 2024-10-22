@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendly//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20241021T161617Z
+UID:calendly-1108584912
+DTSTART:20241023T191500Z
+DTEND:20241023T194500Z
+CLASS:PRIVATE
+DESCRIPTION:Event Name: Natus Phone Interview\nEvent Description: Hello We
+  are pleased to be moving forward with your candidacy. This invitation is 
+ to confirm your phone interview to speak about this position further.**I w
+ ill initiate this call by calling you at the number you provided on your a
+ pplication. *Please note: I am located in Seattle\, WA and will be callin
+ g from the following number: 206-834-3929. I look forward to connecting w
+ ith you.Regards\, Nicole Rogers · Senior Recruiter and Team Lead\, Huma
+ n ResourcesOffice: +1.206-834-3929Nicole.rogers@natus.comBothell\, WA 980
+ 11natus.com   \nDate & Time: 03:15pm - 03:45pm (Eastern Time - US & Can
+ ada) on Wednesday\, October 23\, 2024\n\nNeed to make changes to this even
+ t?\nCancel: https://calendly.com/cancellations/ff0128e6-6b54-4e22-a522-df3
+ a6e0cb2c7\nReschedule: https://calendly.com/reschedulings/ff0128e6-6b54-4e
+ 22-a522-df3a6e0cb2c7\n
+LOCATION:+1 647-874-9730
+SUMMARY:Natus Phone Interview with Nicole Rogers
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

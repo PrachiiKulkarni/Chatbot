@@ -1,0 +1,10 @@
+# langchain 
+# unstructured
+# unstructured[local-inference]
+# # !apt-get install poppler-utils
+# langchain-community
+streamlit
+openai
+datasets
+ragas
+chromadb
